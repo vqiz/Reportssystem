@@ -1,0 +1,3 @@
+name: ReportSystem
+version: '${project.version}'
+main: vqiz.report.dev.teammlg.Teammlg.report
